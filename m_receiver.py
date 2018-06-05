@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 
-####################################
-#Author: Ethan Hicks               #
-#Published on: 11/3/2016           #
-#contact: misterethan85@gmail.com  #
-####################################
 
 import socket
 import struct
